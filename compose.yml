@@ -6,7 +6,7 @@ services:
       BOOT: "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_EnglishInternational_x32v1.iso?t=aa18cc0d-de4f-49dd-a7aa-5b528550513d&P1=1742533939&P2=601&P3=2&P4=wYVG18agEtIPu7BhznJSoID1IDWONsmrJ43ckbDs8ebP%2frzXDIEY%2fX4AG0bSSc7ApKOzh0CalU211QLMJGGgUau0MUMsvQjNopjT4a%2foIgfFM5%2fbel6VuoQXNnqbWeGHjGs58jHjL50kQCtPBVcXdrFG%2bwQ0nLVWDw8M0r9UWPkB24iuz45lWsFRepV%2fBvOnuaEayZY8Lei%2bQtdmaw2gbs8gz%2bc%2bd0TxINBfcjenxxwW%2bKxJCUnGh%2bfV%2bisQ9Mg7JapclkMcBNy1ice79cNrhJeqM7%2bCarmCf66BlagnLSRHRMzRdidLKSGultQuoIzoejQt4dSgxF6lEIiGuwQoPQ%3d%3d"  
       BOOT_MODE: "legacy"
       RAM_SIZE: "2G"
-      CPU_CORES: "1"
+      CPU_CORES: "4"
       DISK_SIZE: "10G"
       
     devices:
